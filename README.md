@@ -1,2 +1,2 @@
 # pagina
-pagina personal
+Página personal: https://ccsoria.github.io/pagina/
