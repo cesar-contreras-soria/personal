@@ -109,6 +109,16 @@ h6 {
   font-weight: 600;
 }
 
+.php-email-form .thank-you {
+  display: none;
+  color: #ffffff;
+  background: #059652;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 24px;
+  font-weight: 600;
+}
+
 .php-email-form .loading {
   display: none;
   background: var(--surface-color);
