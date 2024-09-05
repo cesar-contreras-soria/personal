@@ -1,2 +1,2 @@
 # pagina
-Página personal: https://ccsoria.github.io/personal/
+Página personal: https://cesar-contreras-soria.github.io/personal/
